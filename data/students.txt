@@ -1,0 +1,46 @@
+id: 101
+name: Anu
+course: CSE
+marks: 85
+
+id: 102
+name: Ravi
+course: EEE
+marks: 78
+
+id: 103
+name: Kiran
+course: MECH
+marks: 90
+
+id: 104
+name: Sita
+course: CSE
+marks: 88
+
+id: 105
+name: Arjun
+course: ECE
+marks: 76
+
+id: 106
+name: Priya
+course: CSE
+marks: 92
+
+id: 107
+name: Rahul
+course: EEE
+marks: 67
+
+id: 108
+name: Meena
+course: MECH
+marks: 81id: 109
+name: Lasya
+course:Mernstack
+marks: 78
+name:Sana
+id:120
+course:civil
+marks:67
